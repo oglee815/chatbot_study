@@ -2,7 +2,7 @@
 
 # Must Read Papers
 - 1812 Xiaoice: The Design and Implementation of XiaoIce, an Empathetic Social Chatbot
-- 1911: DialoGPT: DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation
+- 1911 DialoGPT: DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation
 - 2001 Meena: Towards a Human-like Open-Domain Chatbot
 - 2004 Blenderbot: Recipes for building an open-domain chatbot
 - 2107 Blenderbot2: 
