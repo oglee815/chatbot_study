@@ -10,7 +10,7 @@
   - (2) Internet-Augmented Dialogue Generation
   - (3) https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet/)
 - 2201 LaMDA: Language Models for Dialog Applications
-- 2203 Training language models to follow instructions with human feedback
+- 2203 InstructGPT: Training language models to follow instructions with human feedback
 
 # ETC
 - 1801 Personalizing Dialogue Agents: I have a dog, do you have pets too?
