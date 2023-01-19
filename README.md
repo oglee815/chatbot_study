@@ -19,5 +19,6 @@
 - https://facerain.club/deview-review-luda/
 
 # ChatGPT
-- InstructGPT [https://arxiv.org/abs/2203.02155](https://arxiv.org/abs/2203.02155)
+- [InstructGPT](https://arxiv.org/abs/2203.02155)
+- [OpenAI Blog](https://openai.com/blog/instruction-following/)
 - 
