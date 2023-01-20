@@ -23,4 +23,4 @@
 - 2301 [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts)
 - 2301 [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
 - [OpenAI Blog](https://openai.com/blog/instruction-following/)
-- 
+- [What is reinforcement learning from human feedback (RLHF)?](https://bdtechtalks.com/2023/01/16/what-is-rlhf/?fbclid=IwAR29tmcMBQlVWd6ddmhgfkf-4Pu8uWi10e_NAJ4ddqyAMJnvQKZRHXsqGbQ)
