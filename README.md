@@ -1,4 +1,4 @@
-오픈도메인 챗봇 스터디
+오픈도메인 챗봇 관련
 
 # Must Read Papers
 - 1812 Xiaoice: The Design and Implementation of XiaoIce, an Empathetic Social Chatbot
@@ -19,6 +19,8 @@
 - https://facerain.club/deview-review-luda/
 
 # ChatGPT
-- [InstructGPT](https://arxiv.org/abs/2203.02155)
+- [InstructGPT](https://arxiv.org/abs/2203.02155):Training language models to follow instructions with human feedback
+- [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts)
+- [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
 - [OpenAI Blog](https://openai.com/blog/instruction-following/)
 - 
