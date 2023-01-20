@@ -19,7 +19,7 @@
 
 ## Youtube talk
 - [Reinforcement Learning from Human Feedback: From Zero to chatGPT](https://www.youtube.com/watch?app=desktop&v=2MBJOuVq380&fbclid=IwAR2rEKLZYEXeSAPGSyKRu2oGzXQP2Mcu1HYDghbwYkw9HRhRb68FrxHU7dc)
-
+- [시리와 ChatGPT](https://www.youtube.com/watch?v=THeet9bbphw)
 ## ChatGPT 유사 서비스
 - [you.com](https://you.com/)
 - [Chatsonic](https://writesonic.com/chat)
