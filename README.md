@@ -19,6 +19,11 @@
 - [Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/)
 - [나노 GPT 만드는 법](https://github.com/karpathy/nanoGPT)
 
+## News
+- [Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/?fbclid=IwAR2CqZsv-X7TxubGz_DEpeqe0KBMVfGrFI9pf0QkOAs_ZvqdE--m3EhETYI)
+- [“이것도 알아?” 교육 패러다임 바꾸는 챗GPT의 출현
+](http://weekly.chosun.com/news/articleViewAmp.html?idxno=23943&fbclid=IwAR3ZFsGf2Wlm4sZexBMfKqgmokdj5B0ZflapJHDheymlr22dWyrXYQutsRA)
+
 ## Youtube talk
 - [Reinforcement Learning from Human Feedback: From Zero to chatGPT](https://www.youtube.com/watch?app=desktop&v=2MBJOuVq380&fbclid=IwAR2rEKLZYEXeSAPGSyKRu2oGzXQP2Mcu1HYDghbwYkw9HRhRb68FrxHU7dc)
 - [시리를 통해 ChatGPT와 대화 하는 법](https://www.youtube.com/watch?v=THeet9bbphw)
