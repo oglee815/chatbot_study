@@ -39,5 +39,12 @@
   - ChatGPT 클론, 원래 Writesonic이라는 GPT-3 기반의 글쓰기 서비스를 만드는 회사, 이번에 대화 형식의 기능을 추가.
   - ChatGPT와 달리 최신 정보들도 알려주는게 특징입.구글로 먼저 검색을 하고 그 결과를 참조해서 생성할 수 있음. Stable Diffusion처럼 사진을 만들 수 있음.
   - 하루에 25번까지는 무료. 이것도 아마 GPT-3를 활용하는 듯. 
+- 공개적으로 발표된 ChatGPT 변종 및 경쟁자 리스트 (twitter.com/goodside)
+  - Poe from Quora - ChatGPT가 C-3PO가 아니라 평범하게 말한다면?
+  - Jasper Chat - ChatGPT보다 더 나은 문장, 더 상상력이 풍부한
+  - Youchat - ChatGPT + 검색
+  - Ghostwriter Chat from Replit - AI와 대화하면서 코드 생성, 디버그
+  - Perplexity.ai - GPT3.5 + Bing. 대화형은 아니지만 검색결과를 합쳐서 훨씬 유용
 
-
+## Best Example
+- https://www.learngpt.com/
