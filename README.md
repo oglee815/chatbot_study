@@ -19,8 +19,8 @@
 - https://facerain.club/deview-review-luda/
 
 # ChatGPT
-- [InstructGPT](https://arxiv.org/abs/2203.02155):Training language models to follow instructions with human feedback
-- [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts)
-- [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
+- 2203 [InstructGPT:Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+- 2301 [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts)
+- 2301 [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
 - [OpenAI Blog](https://openai.com/blog/instruction-following/)
 - 
