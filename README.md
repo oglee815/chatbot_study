@@ -36,7 +36,6 @@
 ## Book
 - ChatGPT Prompts Mastering by Christian Brown
 
-
 # Opendomain chatbot must read papers
 - 1801 Personalizing Dialogue Agents: I have a dog, do you have pets too?
 - 1812 Xiaoice: The Design and Implementation of XiaoIce, an Empathetic Social Chatbot
@@ -52,3 +51,6 @@
 - 2201 LaMDA: Language Models for Dialog Applications
 - 2203 InstructGPT: Training language models to follow instructions with human feedback
 - https://facerain.club/deview-review-luda/
+
+# ETC
+- [One Embedder, Any Task: Instruction-Finetuned Text Embeddings](https://arxiv.org/abs/2212.09741)
