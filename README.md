@@ -48,3 +48,6 @@
 
 ## Best Example
 - https://www.learngpt.com/
+
+## Book
+- ChatGPT Prompts Mastering by Christian Brown
