@@ -8,6 +8,7 @@
 - 2301 [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
 
 ## Blog
+- [ChatGPT, 출시 5일만에 100만명이 사용한 AI 챗봇](https://modulabs.co.kr/blog/chatgpt/)
 - [What is it, what is it good at, and will it replace Google? - Mythical AI](https://mythicalai.substack.com/p/chatgpt-what-is-it-what-is-it-good?fbclid=IwAR0N-jFqLjsB2qmTKB_uQS8BAbUN_I412UbAL17nOvFAuIJlQ-ZmwRM7az0)
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf?fbclid=IwAR3VqGfFYw_IpgaDalW-JRfOnNch8oZGzCX1NPKoAiJuDzfFQsDiwsUT9SI)
 - [ChatGPT OpenAI Blog](https://openai.com/blog/chatgpt)
