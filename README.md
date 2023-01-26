@@ -24,6 +24,7 @@
 - [Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/?fbclid=IwAR2CqZsv-X7TxubGz_DEpeqe0KBMVfGrFI9pf0QkOAs_ZvqdE--m3EhETYI)
 - [“이것도 알아?” 교육 패러다임 바꾸는 챗GPT의 출현
 ](http://weekly.chosun.com/news/articleViewAmp.html?idxno=23943&fbclid=IwAR3ZFsGf2Wlm4sZexBMfKqgmokdj5B0ZflapJHDheymlr22dWyrXYQutsRA)
+- [AI인공지능이 비즈니스에서 실패하는 이유](https://news.mt.co.kr/mtview.php?no=2023012417452489776&fbclid=IwAR0D8mEi6v0qTTbGZvUxaFHwPZiI70zEHQg3xj6MDQc7Zt6E4g_9hGKLekU)
 
 ## Youtube talk
 - [Reinforcement Learning from Human Feedback: From Zero to chatGPT](https://www.youtube.com/watch?app=desktop&v=2MBJOuVq380&fbclid=IwAR2rEKLZYEXeSAPGSyKRu2oGzXQP2Mcu1HYDghbwYkw9HRhRb68FrxHU7dc)
