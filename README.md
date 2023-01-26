@@ -23,6 +23,7 @@
 - [나노 GPT 만드는 법](https://github.com/karpathy/nanoGPT)
 - [Google Research, 2022 & beyond: Language, vision and generative models](https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?fbclid=IwAR0LXCLte3ZpSaeLFd75CeJdgHdMjVSbT5TzSpmbPYaZ2C4Sf_H16otZ7wQ)
 - [앤드류 응의 생각](https://www.deeplearning.ai/the-batch/issue-180/?fbclid=IwAR1UwDAr8Pq5WA7T00xa-YOp8CUphNRuSoGCjZ7CIKeNiRSuNiZ5zc9Eijw)
+- [From In-context learning to RLHF (Feat. ChatGPT)](https://daehankim.blogspot.com/2023/01/from-in-context-learning-to-rlhf-feat.html?m=1&fbclid=IwAR0kqMISzOLTCv3jBVZbPqOo344_Z0R-Q0MFZhVEmYJNmzSIXvuXJibQBWg)
 
 ## News
 - [Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/?fbclid=IwAR2CqZsv-X7TxubGz_DEpeqe0KBMVfGrFI9pf0QkOAs_ZvqdE--m3EhETYI)
