@@ -28,7 +28,7 @@
 - [“이것도 알아?” 교육 패러다임 바꾸는 챗GPT의 출현
 ](http://weekly.chosun.com/news/articleViewAmp.html?idxno=23943&fbclid=IwAR3ZFsGf2Wlm4sZexBMfKqgmokdj5B0ZflapJHDheymlr22dWyrXYQutsRA)
 - [AI인공지능이 비즈니스에서 실패하는 이유](https://news.mt.co.kr/mtview.php?no=2023012417452489776&fbclid=IwAR0D8mEi6v0qTTbGZvUxaFHwPZiI70zEHQg3xj6MDQc7Zt6E4g_9hGKLekU)
--[챗GPT, 40일 만에 사용자 1천만 명 돌파…두번째 'AI 돌풍'](https://m.edaily.co.kr/news/Read?newsId=03447286635481328&mediaCodeNo=257&utm_source=&fbclid=IwAR1NUkZBa44z0GSCozaNFJpijq3YIytPSzcsxZ-Ellkv4Z-1znCrcG8M3nI)
+- [챗GPT, 40일 만에 사용자 1천만 명 돌파…두번째 'AI 돌풍'](https://m.edaily.co.kr/news/Read?newsId=03447286635481328&mediaCodeNo=257&utm_source=&fbclid=IwAR1NUkZBa44z0GSCozaNFJpijq3YIytPSzcsxZ-Ellkv4Z-1znCrcG8M3nI)
 
 ## Youtube talk
 - [Reinforcement Learning from Human Feedback: From Zero to chatGPT](https://www.youtube.com/watch?app=desktop&v=2MBJOuVq380&fbclid=IwAR2rEKLZYEXeSAPGSyKRu2oGzXQP2Mcu1HYDghbwYkw9HRhRb68FrxHU7dc)
