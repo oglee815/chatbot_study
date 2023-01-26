@@ -20,6 +20,7 @@
 - [Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/)
 - [최신뉴스 2023.01.25](https://hipgyung.tistory.com/entry/2023-ChatGPT-%EA%B4%80%EB%A0%A8-%EC%B5%9C%EC%8B%A0-%EC%86%8C%EC%8B%9D-%EC%A0%95%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89-DAU-MAU-%EC%9D%B4%EC%9A%A9%EC%9E%90-%EC%88%98-Microsoft-%ED%88%AC%EC%9E%90-GPT-4-Google-DeepMind-LaMDA-Sparrow-Youcom-Perplexityai-Bing)
 - [나노 GPT 만드는 법](https://github.com/karpathy/nanoGPT)
+- [Google Research, 2022 & beyond: Language, vision and generative models](https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?fbclid=IwAR0LXCLte3ZpSaeLFd75CeJdgHdMjVSbT5TzSpmbPYaZ2C4Sf_H16otZ7wQ)
 
 ## News
 - [Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/?fbclid=IwAR2CqZsv-X7TxubGz_DEpeqe0KBMVfGrFI9pf0QkOAs_ZvqdE--m3EhETYI)
