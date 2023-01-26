@@ -11,6 +11,7 @@
 - [ChatGPT, 출시 5일만에 100만명이 사용한 AI 챗봇](https://modulabs.co.kr/blog/chatgpt/)
 - [What is it, what is it good at, and will it replace Google? - Mythical AI](https://mythicalai.substack.com/p/chatgpt-what-is-it-what-is-it-good?fbclid=IwAR0N-jFqLjsB2qmTKB_uQS8BAbUN_I412UbAL17nOvFAuIJlQ-ZmwRM7az0)
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf?fbclid=IwAR3VqGfFYw_IpgaDalW-JRfOnNch8oZGzCX1NPKoAiJuDzfFQsDiwsUT9SI)
+- [What Makes a Dialog Agent Useful?](https://huggingface.co/blog/dialog-agents?fbclid=IwAR3XecvMIToSRYMmg26b5XGdUJjbUd5D_EjsjIgJ7QjAf90Yf8rVwoUu1UA)
 - [ChatGPT OpenAI Blog](https://openai.com/blog/chatgpt)
 - [InstructGPT OpenAI Blog](https://openai.com/blog/instruction-following/)
 - [What is reinforcement learning from human feedback (RLHF)?](https://bdtechtalks.com/2023/01/16/what-is-rlhf/?fbclid=IwAR29tmcMBQlVWd6ddmhgfkf-4Pu8uWi10e_NAJ4ddqyAMJnvQKZRHXsqGbQ)
