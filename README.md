@@ -3,6 +3,7 @@
 # ChatGPT
 
 ## Papers
+- 2212 [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 - 2203 [InstructGPT:Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
 - 2301 [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts)
 - 2301 [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
