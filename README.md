@@ -35,6 +35,13 @@
 - [AskUP](https://app.slack.com/client/T04KV1QF5L6/C04L1FVCTHR/thread/C04L1FVCTHR-1675304381.620319)
 - [ChatGPT Plus](https://openai.com/blog/chatgpt-plus/)
 - [Report: Microsoft plans to update Bing with a faster version of ChatGPT in the coming weeks](https://techcrunch.com/2023/02/01/report-microsoft-plans-to-update-bing-with-a-faster-version-of-chatgpt-in-the-coming-weeks/)
+- [MS Teams Premium](https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/?fbclid=IwAR1Lm6jkn8aC8oU0zGFgM1MynmSn2ma5Mbxvns0HaVcGjU686CaoIMsLFmM) 
+  - MS Teams Premium이 GA되었습니다. 재미난 점은 여기에 GTP-3.5가 함께 탑재되었다는 것입니다.
+  - 미팅 종료 후 미팅 내용 요약
+  - 미팅 종료 후, 각 발언자들의 발언 내용 요약
+  - 미팅 종료 후, 액션 아이템 자동 생성
+  - PPT 슬라이드 발표시, 슬라이드를 섹션별로 자동 분리(유투브에서 챕터 나누듯이)
+  - 미팅 도중 잠시 나갔다가 돌아오는 경우, 자리를 비운 시간 동안 벌어진 일 요약해서 빠르게 catch-up 할 수 있게 해주기
 
 ## Youtube talk
 - [Reinforcement Learning from Human Feedback: From Zero to chatGPT](https://www.youtube.com/watch?app=desktop&v=2MBJOuVq380&fbclid=IwAR2rEKLZYEXeSAPGSyKRu2oGzXQP2Mcu1HYDghbwYkw9HRhRb68FrxHU7dc)
