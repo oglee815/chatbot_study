@@ -50,6 +50,7 @@
 - [ChatGPT 크롬 익스텐션에 탑재해서 생산성을 향상시켜 보세요](https://www.youtube.com/watch?v=eQQq7SwGM6E)
 - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - [chatGPT로 2분만에 블로그 글 수십개를 자동 생성하는 방법 (비개발자도 완전 가능)](https://www.youtube.com/watch?v=oVUHrs83S34)
+- [From GPT3 to ChatGPT (and Beyond)](https://www.youtube.com/watch?v=ay54BA0PXKs)
 
 ## ChatGPT 유사 서비스
 - [you.com](https://you.com/)
