@@ -7,7 +7,7 @@
 - 2203 [InstructGPT:Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
 - 2301 [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts)
 - 2301 [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
-- 2301 [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.066270
+- 2301 [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.066270)
 
 ## Blog
 - [ChatGPT, 출시 5일만에 100만명이 사용한 AI 챗봇](https://modulabs.co.kr/blog/chatgpt/)
