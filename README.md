@@ -32,6 +32,7 @@
 ](http://weekly.chosun.com/news/articleViewAmp.html?idxno=23943&fbclid=IwAR3ZFsGf2Wlm4sZexBMfKqgmokdj5B0ZflapJHDheymlr22dWyrXYQutsRA)
 - [AI인공지능이 비즈니스에서 실패하는 이유](https://news.mt.co.kr/mtview.php?no=2023012417452489776&fbclid=IwAR0D8mEi6v0qTTbGZvUxaFHwPZiI70zEHQg3xj6MDQc7Zt6E4g_9hGKLekU)
 - [챗GPT, 40일 만에 사용자 1천만 명 돌파…두번째 'AI 돌풍'](https://m.edaily.co.kr/news/Read?newsId=03447286635481328&mediaCodeNo=257&utm_source=&fbclid=IwAR1NUkZBa44z0GSCozaNFJpijq3YIytPSzcsxZ-Ellkv4Z-1znCrcG8M3nI)
+- [2달만에 1억명 돌파](http://www.4th.kr/news/articleView.html?idxno=2033232)
 - [AskUP](https://app.slack.com/client/T04KV1QF5L6/C04L1FVCTHR/thread/C04L1FVCTHR-1675304381.620319)
 - [ChatGPT Plus](https://openai.com/blog/chatgpt-plus/)
 - [Report: Microsoft plans to update Bing with a faster version of ChatGPT in the coming weeks](https://techcrunch.com/2023/02/01/report-microsoft-plans-to-update-bing-with-a-faster-version-of-chatgpt-in-the-coming-weeks/)
