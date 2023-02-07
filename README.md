@@ -53,6 +53,18 @@
 - [chatGPT로 2분만에 블로그 글 수십개를 자동 생성하는 방법 (비개발자도 완전 가능)](https://www.youtube.com/watch?v=oVUHrs83S34)
 - [From GPT3 to ChatGPT (and Beyond)](https://www.youtube.com/watch?v=ay54BA0PXKs)
 
+## [Google VS MS](https://www.youtube.com/watch?v=_TAWaueEmoY)
+- Anthropic vs OpenAI, Claude vs ChatGPT
+- Anthropic
+  - Founded in 2021 by former OpenAI execs: Daniela Amodei and Dario Amodei
+  - **Claude** is pretty similar to ChatGPT(funtionally)
+  - Google invests nearly $400M into Anthropic
+- Claude & Constitutional AI
+  - This is a basic **heuristic imperative cognitive architecture.**
+  - It teaches itself based on internal feedback and guiding principles rahter than RLHF like ChatGPT
+  - ![image](https://user-images.githubusercontent.com/18374514/217284423-f4809f20-8559-43b8-b116-5472e1af336a.png)
+
+
 ## ChatGPT 유사 서비스
 - [you.com](https://you.com/)
 - [Chatsonic](https://writesonic.com/chat)
