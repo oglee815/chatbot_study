@@ -3,6 +3,7 @@
 # ChatGPT
 
 ## Papers
+- 2112 [A General Language Assistant as a Laboratory for Alignment](https://arxiv.org/abs/2112.00861)
 - 2212 [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 - 2203 [InstructGPT:Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
 - 2301 [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts)
