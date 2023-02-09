@@ -3,6 +3,7 @@
 # ChatGPT
 
 ## Papers
+- 2210 [Scaling Laws for Reward Model Overoptimization](https://arxiv.org/abs/2210.10760)
 - 2112 [A General Language Assistant as a Laboratory for Alignment](https://arxiv.org/abs/2112.00861)
 - 2204 [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
 - 2212 [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
