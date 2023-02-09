@@ -55,6 +55,9 @@
 - [chatGPT로 2분만에 블로그 글 수십개를 자동 생성하는 방법 (비개발자도 완전 가능)](https://www.youtube.com/watch?v=oVUHrs83S34)
 - [From GPT3 to ChatGPT (and Beyond)](https://www.youtube.com/watch?v=ay54BA0PXKs)
 
+## Open-Assistant
+- [Open-Assistant](https://open-assistant.io/)
+
 ## ChatGPT 유사 서비스
 - [you.com](https://you.com/)
 - [Chatsonic](https://writesonic.com/chat)
