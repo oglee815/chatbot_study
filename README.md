@@ -3,8 +3,8 @@
 # ChatGPT
 
 ## Papers
-- 2210 Ask Me Anything: A simple strategy for prompting language models(https://arxiv.org/abs/2210.02441)
-- 2210 ReAct: Synergizing Reasoning and Acting in Language Models(https://arxiv.org/abs/2210.03629)
+- 2210 [Ask Me Anything: A simple strategy for prompting language models](https://arxiv.org/abs/2210.02441)
+- 2210 [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - 2210 [Scaling Laws for Reward Model Overoptimization](https://arxiv.org/abs/2210.10760)
 - 2112 [A General Language Assistant as a Laboratory for Alignment](https://arxiv.org/abs/2112.00861)
 - 2204 [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
