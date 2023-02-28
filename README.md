@@ -14,6 +14,7 @@
 - 2301 [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
 - 2301 [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.066270)
 - 2302 [Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/abs/2302.12813)
+- 2302 [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045)
 
 2. Blog
 ## Blog
