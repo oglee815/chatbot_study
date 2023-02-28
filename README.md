@@ -3,6 +3,8 @@
 # ChatGPT
 
 ## Papers
+- 2210 Ask Me Anything: A simple strategy for prompting language models(https://arxiv.org/abs/2210.02441)
+- 2210 ReAct: Synergizing Reasoning and Acting in Language Models(https://arxiv.org/abs/2210.03629)
 - 2210 [Scaling Laws for Reward Model Overoptimization](https://arxiv.org/abs/2210.10760)
 - 2112 [A General Language Assistant as a Laboratory for Alignment](https://arxiv.org/abs/2112.00861)
 - 2204 [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
@@ -11,7 +13,9 @@
 - 2301 [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts)
 - 2301 [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
 - 2301 [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.066270)
+- 2302 [Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/abs/2302.12813)
 
+2. Blog
 ## Blog
 - [ChatGPT, 출시 5일만에 100만명이 사용한 AI 챗봇](https://modulabs.co.kr/blog/chatgpt/)
 - [What is it, what is it good at, and will it replace Google? - Mythical AI](https://mythicalai.substack.com/p/chatgpt-what-is-it-what-is-it-good?fbclid=IwAR0N-jFqLjsB2qmTKB_uQS8BAbUN_I412UbAL17nOvFAuIJlQ-ZmwRM7az0)
