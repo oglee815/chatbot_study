@@ -15,7 +15,7 @@
 - 2301 [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.066270)
 - 2302 [Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/abs/2302.12813)
 - 2302 [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045)
-
+- 2302 [In-context instruction learning](https://arxiv.org/abs/2302.14691)
 2. Blog
 ## Blog
 - [ChatGPT, 출시 5일만에 100만명이 사용한 AI 챗봇](https://modulabs.co.kr/blog/chatgpt/)
